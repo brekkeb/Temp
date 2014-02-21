@@ -1,0 +1,25 @@
+Rapportstart:
+  intro
+
+Planlegging:
+  mål
+  deler
+  bestilling
+  tekniske løsninger
+
+Sammenstilling:
+  Planlegging:
+    kunnskaper
+    instrumenter/verktøy
+    manualer/instruksjoner
+  Gjennomføring:
+    hva skjer i hvilken rekkefølge
+    hva kan man kontrollere/feilsøke underveis
+
+Testing:
+  teste funksjonen/ytelsen til systemet
+  hvordan stemmer ytelsen/funksjonen i forhold til planen
+
+Dokumentering:
+  hvordan dokumenterer jeg et slikt system
+  hva er bruksområdet til denne dokumentasjonen
