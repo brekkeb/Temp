@@ -1,0 +1,1 @@
+This is a repository for my project files for a Raspberry which reads the temperature and posts them on a website
